@@ -25,7 +25,7 @@ cd yourrepo
 ### 2. Run the Script
 
 ```bash
-python3 advanced_subdomain_finder_with_output.py
+Advance Subdomain.py
 ```
 
 You will be asked:
